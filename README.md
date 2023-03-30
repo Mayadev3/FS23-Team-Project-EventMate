@@ -1,4 +1,4 @@
-EventMate
+###EventMate
 
 EventMate is a platform designed to help you easily discover local events that match your interests. And the best part? You can also browse profiles of people attending those events and chat one-on-one with someone who catches your eye. Who knows, you might just make a new friend or find a great date!
 
