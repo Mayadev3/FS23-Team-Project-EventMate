@@ -26,5 +26,5 @@ EventMate is a platform designed to help you easily discover local events that m
 
 ### Development
 
-- Run `npm start` in project directory to start the Express server on port 5000
+- Run `npm start` in project directory to start the Express server on port 5002
 - In another terminal, do `cd client` and run `npm start` to start the client in development mode with hot reloading in port 3000.
